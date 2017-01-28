@@ -5,7 +5,11 @@ body {
 
 #placeholdertext {
   font-family: "Verdana", Verdana, sans-serif;
-  font-size: 10vh;
+  font-size: 5vh;
   text-align: center;
-  margin-top: 35vh;
+  margin-top: 2vh;
+}
+
+#heart {
+  color: #FF007F;
 }
